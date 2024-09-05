@@ -22,9 +22,9 @@ A partir deste projeto, foi possível identificar os parâmetros mais relevantes
 
 ## Ferramentas e bliotecas utilizadas:
 
-1. _Google Colabatory_
-2. _Pandas v 2.1.4_
-3. _Seaborn v 0.13.1_
-4. _Numpy v 1.26.4_
-5. _Statsmodels v 0.14.2_
-6. _Scipy v 1.13.1_
+1. __Google Colabatory__
+2. __Pandas v 2.1.4__
+3. __Seaborn v 0.13.1__
+4. __Numpy v 1.26.4__
+5. __Statsmodels v 0.14.2__
+6. __Scipy v 1.13.1__
