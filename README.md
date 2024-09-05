@@ -14,7 +14,7 @@ A partir deste projeto, foi possível identificar os parâmetros mais relevantes
 ## Estrutura do projeto:
 [Análise de Dados e Contrução de Regressão Linear](https://github.com/olegariofelipe/regressao_linear_custos_medicos/blob/main/An%C3%A1lise_de_Dados_e_Regress%C3%A3o_Linear_Custos_Medicos.ipynb)
 
-[Prevendo custos]()
+[Prevendo custos](https://github.com/olegariofelipe/regressao_linear_custos_medicos/blob/main/Prevendo_custos.ipynb)
 
 [Modelo para predição de custos](https://github.com/olegariofelipe/regressao_linear_custos_medicos/blob/main/previsao_custos_medicos.skl)
 
